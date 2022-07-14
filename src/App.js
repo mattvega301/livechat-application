@@ -92,7 +92,7 @@ function ChatRoom() {
 
     if (messageClass === 'received') {
       return (
-        <div className='container border'>
+        <div className='container'>
           <div className='row'>
             <div className="col-3"></div>
             <div className='col-5'>
@@ -108,7 +108,7 @@ function ChatRoom() {
 
     } else {
       return (
-        <div className='container border'>
+        <div className='container'>
           <div className='row'>
             <div className="col-7"></div>
             <div className='col-4'>
