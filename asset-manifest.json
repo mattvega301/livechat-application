@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mattvega301/livechat-application/static/css/main.20f9c9e2.css",
+    "main.js": "/mattvega301/livechat-application/static/js/main.326e48a2.js",
+    "static/js/787.788d3bf7.chunk.js": "/mattvega301/livechat-application/static/js/787.788d3bf7.chunk.js",
+    "index.html": "/mattvega301/livechat-application/index.html",
+    "main.20f9c9e2.css.map": "/mattvega301/livechat-application/static/css/main.20f9c9e2.css.map",
+    "main.326e48a2.js.map": "/mattvega301/livechat-application/static/js/main.326e48a2.js.map",
+    "787.788d3bf7.chunk.js.map": "/mattvega301/livechat-application/static/js/787.788d3bf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f9c9e2.css",
+    "static/js/main.326e48a2.js"
+  ]
+}
