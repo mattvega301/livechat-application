@@ -1,6 +1,6 @@
 {
-  "name": "livechat",
-  "homepage": "https://github.com/mattvega301/livechat-application",
+  "name": "livechat-application",
+  "homepage": "https://mattvega301.github.io/livechat-application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
